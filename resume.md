@@ -1,5 +1,5 @@
 # Morgan Moss
-Bedford, Texas 76021 • 979-218-3328 • morgansmoss@gmail.com • www.linkedin.com/in/morgan-moss-31399347
+Texas, USA | 979-218-3328 | morgansmoss@gmail.**com**
 
 ---
 ## **SOLUTIONS ENGINEER**
@@ -16,18 +16,18 @@ Solutions Engineer with over 5 years of experience designing, automating, and ma
 
 ---
 ## **Technical Proficiencies**
-| | | |
-| :--- | :--- | :--- |
-| **Cloud Computing (AWS)** | Lambda, Glue, S3, IAM, API Gateway, Transfer Family, Cognito, Secrets Manager | |
-| **AI & Machine Learning** | Gemini 2.5 Pro, GPT-4o, Claude 4 | |
-| **Languages/Scripting**| Python, SQL, T-SQL, C#, R, Powershell, Bash | |
-| **Databases** | PostgreSQL, MS SQL Server (SSMS) | |
-| **Tools & Platforms** | Databricks, Stonebranch, Git, Tesseract OCR, MS Office Suite | |
+| | |
+| :--- | :--- |
+| **Cloud Computing (AWS)** | Lambda, Glue, S3, IAM, API Gateway, Transfer Family, Cognito, Secrets Manager |
+| **AI & Machine Learning** | Gemini 2.5 Pro, GPT-4o, Claude 4 |
+| **Languages/Scripting**| Python, SQL, T-SQL, C#, R, Powershell, Bash |
+| **Databases** | PostgreSQL, MS SQL Server (SSMS) |
+| **Tools & Platforms** | Databricks, Stonebranch, Git, Tesseract OCR, MS Office Suite |
 
 ---
 ## **Career Experience**
 
-**SOLUTIONS ENGINEER, CONTINUOUS IMPROVEMENT** – Berry Appleman & Leiden LLP, Dallas, TX
+**TECHNICAL SOLUTIONS ENGINEER** – Berry Appleman & Leiden LLP, Dallas, TX
 *August 2022 to Present*
 
 * Architected and maintained B2B client data integrations using AWS services including Lambda, Glue, and Databricks.
