@@ -1,5 +1,5 @@
 # Morgan Moss
-Texas, USA | 979-218-3328 | morgansmoss@gmail.**com**
+Texas, USA | 979-218-3328 | morgansmoss@gmail.com
 
 ---
 ## **SOLUTIONS ENGINEER**
@@ -28,7 +28,7 @@ Solutions Engineer with over 5 years of experience designing, automating, and ma
 ## **Career Experience**
 
 **TECHNICAL SOLUTIONS ENGINEER** – Berry Appleman & Leiden LLP, Dallas, TX
-*August 2022 to Present*
+*March 2022 to Present*
 
 * Architected and maintained B2B client data integrations using AWS services including Lambda, Glue, and Databricks.
 * Developed and managed processes for sending client data reports via SFTP and SharePoint, and for ingesting data from external APIs and flat files.
@@ -40,7 +40,7 @@ Solutions Engineer with over 5 years of experience designing, automating, and ma
 * Identified and resolved technical risks and problems to ensure the overall success of production solutions.
 
 **SQL DATA ANALYST** – Kofile, Dallas, TX
-*Jan 2019 to July 2022*
+*Jan 2019 to March 2022*
 
 * Integrated data from multiple data sets into a single database system for streamlining information.
 * Designed scripts to perform specific database functions and cleaned the database, resolved data issues, and designed reports.
